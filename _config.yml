@@ -1,0 +1,33 @@
+# Book settings
+title: AGGXXXX - Métodos Potenciais
+author: Leonardo Uieda
+logo: assets/logo.png
+# Auto-exclude files not in the toc
+only_build_toc_files: true
+
+execute:
+  execute_notebooks: off
+
+# Add a bibtex file so that we can create citations
+bibtex_bibfiles:
+  - references.bib
+
+sphinx:
+  config:
+    bibtex_reference_style: author_year
+
+# Information about where the book exists on the web
+repository:
+  url: https://github.com/leouieda/aula2023
+  branch: main
+
+html:
+  use_issues_button: true
+  use_repository_button: true
+  favicon: assets/favicon.png
+
+# Launch button settings
+launch_buttons:
+  notebook_interface: jupyterlab
+  binderhub_url: https://mybinder.org
+  thebe: true

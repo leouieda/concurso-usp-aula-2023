@@ -1,2 +1,8 @@
+build:
+	python build.py
+
 serve:
-	python serve.py
+	python build.py --serve
+
+clean:
+	rm -rf _build

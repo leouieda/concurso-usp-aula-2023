@@ -1,0 +1,13 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: index
+parts:
+  - caption: 🧑‍🏫 Lições
+    chapters:
+      - file: licoes/licao1
+  - caption: 💻 Práticas
+    chapters:
+      - file: praticas/pratica1
+
