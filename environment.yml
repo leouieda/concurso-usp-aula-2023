@@ -10,6 +10,7 @@ dependencies:
   - jupyterlab
   - jupyter-book
   - sphinxcontrib-bibtex
+  - jupyterlab-myst
   # Geo stuff
   - harmonica
   - verde
