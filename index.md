@@ -1,4 +1,4 @@
-# AGGXXXX - Métodos Potenciais
+# AGGXXXX - Geodinâmica da Litosfera
 
 **Professor**:  [Leonardo Uieda](https://www.leouieda.com/)
 
@@ -11,12 +11,9 @@ Professor Doutor em Métodos Potenciais
 **Esta discisplina é fictícia.**
 ```
 
-
-
 ## Ementa
 
 Ementa do curso vai aqui.
-
 
 ## Licença
 

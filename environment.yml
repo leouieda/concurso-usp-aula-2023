@@ -4,6 +4,7 @@ channels:
   - defaults
 dependencies:
   - python==3.10.*
+  - pip
   - livereload==2.6.*
   - numpy
   - matplotlib
@@ -13,7 +14,6 @@ dependencies:
   - jupyterlab-myst
   # Geo stuff
   - harmonica
-  - verde
   - boule
   - ensaio
   - pooch
@@ -21,5 +21,8 @@ dependencies:
   - pygmt
   - gmt
   - xarray
+  - xrft
   - netcdf4
   - pykdtree
+  - pip:
+    - git+https://github.com/fatiando/verde

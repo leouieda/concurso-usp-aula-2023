@@ -7,7 +7,10 @@ parts:
   - caption: 🧑‍🏫 Lições
     chapters:
       - file: licoes/licao1
+      - file: licoes/licao2
+      - file: licoes/licao3
   - caption: 💻 Práticas
     chapters:
-      - file: praticas/pratica1
+      - file: praticas/gravidade
+      - file: praticas/isostasia
 
