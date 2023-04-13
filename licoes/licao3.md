@@ -4,10 +4,10 @@
 ```{admonition} Objetivos
 :class: note
 
-1. bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
-1. bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
-1. bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
-1. bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
+1. Introduzir o conceito de isostasia
+1. Apresentar os modelos de Airy, Pratt e Vening Meinesz para compensação isostática
+1. Relacionar os modelos de compensação isostática com observações do campo de gravidade terrestre
+1. Observar os contextos geodinâmicos onde cada modelo se aplica
 
 ```
 
@@ -38,3 +38,4 @@ A seguinte aula prática complementa essa lição:
 
 * {cite:t}`Braitenberg2015`
 * {cite:t}`Sandwell2022`
+* {cite:t}`Fowler1990`

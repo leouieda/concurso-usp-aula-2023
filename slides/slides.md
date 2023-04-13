@@ -199,6 +199,7 @@ Gráficos de anomalia Bouguer X topografia relevam equilíbrio isostático
 * <!-- .element: class="fragment" --> Não compensadas por Airy ou Pratt
 * <!-- .element: class="fragment" --> <strong>Como as ilhas são sustentadas?</strong>
 * <!-- .element: class="fragment" --> Pela rigidez da placa oceânica
+* <!-- .element: class="fragment" --> Modelo de Vening Meinesz
 
 </div>
 </div>
