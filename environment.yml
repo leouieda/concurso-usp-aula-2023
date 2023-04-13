@@ -12,6 +12,7 @@ dependencies:
   - jupyter-book
   - sphinxcontrib-bibtex
   - jupyterlab-myst
+  - ipywidgets
   # Geo stuff
   - harmonica
   - boule
@@ -20,6 +21,7 @@ dependencies:
   - choclo
   - pygmt
   - gmt
+  - pyproj
   - xarray
   - xrft
   - netcdf4

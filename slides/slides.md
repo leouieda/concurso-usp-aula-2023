@@ -5,30 +5,23 @@ The reveal.js configuration can be found in index.html
 -------------------------------------------------------------------------------
 -->
 
-<!-- .slide: class="slide-title" data-background-image="assets/title-slide.svg" data-background-color="#000000" data-background-size="contain" -->
+<!-- .slide: class="slide-title" data-background-image="../assets/title-slide.svg" data-background-color="#000000" data-background-size="contain" -->
 
 <!-- Place the content at the bottom of the slide -->
 <div class="r-stretch">
 </div>
 
 <h1 id="talk-title">
-  A long talk title that may <br>be kind of boring and <br>more than one line long
+  Isostasia, flexura e gravidade
 </h1>
 <p id="talk-authors">
-  <a href="https://www.leouieda.com" id="talk-speaker">Leonardo Uieda</a>,
-  Author Two,
-  and
-  Author Three
+  <a href="https://www.leouieda.com" id="talk-speaker">Leonardo Uieda</a>
 </p>
 
 <!-- Place location and date side-by-side with affiliation logos -->
 <div class="row talk-info">
 <div class="col-large">
 
-<i class="fa fa-calendar-alt" style="margin: 0 10px 0 0"></i>
-XX Month 202X
-<span style="margin: 0 20px"></span>
-Event/host of the talk
 
 <!-- Permission to reuse and CC-BY license logo -->
 <i class="fa fa-camera" style="margin: 0 10px 0 0"></i>
@@ -42,8 +35,7 @@ Feel free to screenshot/share/reuse this presentation
 <!-- Add logos here. Need these wrappers to align them to the bottom right -->
 <div class="talk-logos-container">
 <div class="talk-logos">
-  <a href="https://www.compgeolab.org"><img src="assets/compgeolab-banner-light.svg" alt="Computer-Oriented Geoscience Lab"></a>
-  <a href="https://www.liverpool.ac.uk/"><img src="assets/university-of-liverpool-white.png" alt="University of Liverpool"></a>
+  <a href="https://www.compgeolab.org"><img src="../assets/compgeolab-banner-light.svg" alt="Computer-Oriented Geoscience Lab"></a>
 </div>
 </div>
 
@@ -52,19 +44,53 @@ Feel free to screenshot/share/reuse this presentation
 
 ===============================================================================
 
-# Heading 1
+Distúrbio é pequeno
 
-This is a slide with some content.
+===============================================================================
 
-## Heading 2
+Compensação isostática
 
-* Bla bla
-* Bla bla
+Esquema Airy com conceitos
 
-### Heading 3
+===============================================================================
 
-Meh meh meh meh meh meh meh meh meh meh meh meh meh meh meh meh meh meh meh meh
-meh meh.
+Faz as contas e mostra Airy
+
+===============================================================================
+
+Tarefa é fazer o Pratt
+
+===============================================================================
+
+Prevedo gravidade com Bouguer
+
+===============================================================================
+
+Mostra que o disturbio é zero
+
+===============================================================================
+
+Mostra que Bouguer x topo é linear
+
+===============================================================================
+
+Onde não é zero - Ilhas
+
+===============================================================================
+
+Equação da flexura
+
+===============================================================================
+
+Solução por FFT
+
+===============================================================================
+
+Assume que eles sabem grave da topografia e mostra
+
+===============================================================================
+
+Como isso acontece na prática? Mostra dados reais.
 
 ===============================================================================
 
@@ -353,21 +379,21 @@ Makes this map 👇
 
 ===============================================================================
 
-<!-- .slide: class="slide-contact" data-background-image="assets/contact-slide.svg" data-background-size="contain" data-background-color="#000000" -->
+<!-- .slide: class="slide-contact" data-background-image="../assets/contact-slide.svg" data-background-size="contain" data-background-color="#000000" -->
 
 <div class="r-stretch centered">
 <div>
 
 <i class="fas fa-comments"></i>
 <br>
-Contact:
+Contato:
 <a href="https://www.leouieda.com">www.leouieda.com</a>
 
 <i class="fab fa-github"></i>
 <br>
-Source code for this presentation:
+Código fonte desta apresentação:
 <br>
-[github.com/leouieda/talk-template](https://github.com/leouieda/talk-template)
+[github.com/leouieda/aula2023](https://github.com/leouieda/aula2023)
 
 <i class="fab fa-creative-commons"></i><i class="fab fa-creative-commons-by"></i>
 <br>
@@ -381,9 +407,9 @@ licensed under the
 </div>
 <div class="footnote-left dark">
 
-The background image is a Landsat 8 scene (panchromatic band) of the Mersey
-river delta.
-<br>
-White dots are on the right are offshore wind turbines.
+A imagem de fundo mostra a região Oeste de São Paulo.
+Dados são provenientes do satélite Landsat 9.
+A imagem foi produzida com o software
+[xlandsat](https://www.compgeolab.org/xlandsat/).
 
 </div>
