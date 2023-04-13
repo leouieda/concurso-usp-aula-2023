@@ -84,6 +84,10 @@ Equação da flexura
 
 Solução por FFT
 
+$$
+W(k_x, k_y) = \dfrac{-(\rho_c - \rho_w)}{(\rho_m - \rho_c)}\left[1 + \dfrac{D(2\pi k)^4}{g(\rho_m - \rho_c)}\right]^{-1} T(k_x, k_y)
+$$
+
 ===============================================================================
 
 Assume que eles sabem grave da topografia e mostra
