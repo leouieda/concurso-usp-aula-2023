@@ -246,11 +246,51 @@ $$
 
 ===============================================================================
 
-Assume que eles sabem grave da topografia e mostra
+# Distúrbio da gravidade causada pela flexura
+
+<img src="../assets/disturbance-flexure-model.png">
 
 ===============================================================================
 
-Como isso acontece na prática? Mostra dados reais.
+# Efeito gravitacional de uma interface
+
+$$
+g (k_x, k_y) = 2 \pi G \rho\ e^{-2 \pi k s}\ T(k_x, k_y)
+$$
+
+<div class="fragment">
+
+Aplicando ao modelo conceitual do distúrbio causado pela flexura
+
+</div>
+<div class="fragment">
+
+$$
+\delta g (k_x, k_y) = 2 \pi G (\rho_c - \rho_w) e^{-2 \pi k s}\ T(k_x, k_y) +
+2 \pi G (\rho_m - \rho_c) e^{-2 \pi k (s + d)}\ W(k_x, k_y)
+$$
+
+</div>
+<div class="fragment">
+
+Substituindo $W$ pela equação da flexura
+
+</div>
+<div class="fragment">
+
+$$
+\delta g (k_x, k_y) = 2 \pi G (\rho_c - \rho_w) e^{-2\pi k s} \left\( 1 -  \left[1 + \dfrac{D(2\pi k)^4}{g(\rho_m - \rho_c)}\right]^{-1}e^{-2\pi k d} \right\) \ T(k_x, k_y)
+$$
+
+</div>
+<div class="fragment">
+
+Calcular $\phi(k_x, k_y)  = \delta g (k_x, k_y) / T (k_x, k_y)$ para dados
+observados
+<br>
+**proporciona informações sobre o filtro $\phi$ e a rigidez $D$**
+
+</div>
 
 ===============================================================================
 
@@ -264,6 +304,16 @@ Como isso acontece na prática? Mostra dados reais.
 1. <!-- .element: class="fragment" --> Verificar a relação distúrbio X topografia no domínio da frequência
 
 </div>
+
+===============================================================================
+
+# Bibliografia
+
+Braitenberg (2015). https://doi.org/10.1016/j.jag.2014.01.013
+
+Fowler (1990). The solid earth: an introduction to global geophysics.
+
+Sandwell (2022). Advanced Geodynamics.
 
 ===============================================================================
 

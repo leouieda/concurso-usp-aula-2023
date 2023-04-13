@@ -1,21 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:ns1="http://wanglongqi.github.io/WriteTeX"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="166.26149mm"
    height="69.320488mm"
    viewBox="0 0 166.26149 69.320487"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
-   sodipodi:docname="disturbance-flexure-model.svg">
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="disturbance-flexure-model.svg"
+   inkscape:export-filename="disturbance-flexure-model.png"
+   inkscape:export-xdpi="152.77139"
+   inkscape:export-ydpi="152.77139"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:ns1="http://wanglongqi.github.io/WriteTeX">
   <defs
      id="defs2">
     <marker
@@ -1817,22 +1820,25 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.2670113"
-     inkscape:cx="627.99033"
-     inkscape:cy="432.82818"
+     inkscape:zoom="1.0059734"
+     inkscape:cx="275.85221"
+     inkscape:cy="124.75479"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="3200"
-     inkscape:window-height="1800"
+     inkscape:window-width="1600"
+     inkscape:window-height="880"
      inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:window-y="20"
+     inkscape:window-maximized="1"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:document-rotation="0" />
+     inkscape:document-rotation="0"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -1865,6 +1871,10 @@
          style="fill:#0000ff;stroke-width:0.139523"
          d="m 99.087389,203.96722 c -3.220685,-0.32394 -6.510956,-1.27514 -10.262467,-2.96681 -1.483165,-0.66881 -4.361469,-2.15756 -7.177495,-3.71243 l -2.673827,-1.47636 11.114956,-0.0187 c 6.113224,-0.0103 16.104144,-0.0103 22.202044,0 l 11.08709,0.0187 -2.43641,1.32593 c -2.89545,1.57575 -5.85941,3.09007 -7.36368,3.7622 -3.6831,1.64565 -6.69628,2.56148 -9.76504,2.968 -0.99168,0.13137 -3.816729,0.19084 -4.725171,0.0995 z"
          id="path631-2" />
+      <path
+         style="fill:#0000ff;stroke-width:0.139666"
+         d="m 99.357331,180.93361 c -3.220669,-0.32461 -6.510925,-1.27777 -10.262418,-2.97293 -1.483158,-0.67019 -4.361448,-2.162 -7.17746,-3.72008 l -2.673815,-1.4794 11.114903,-0.0187 c 6.113195,-0.0103 16.104069,-0.0103 22.201939,0 l 11.08704,0.0187 -2.4364,1.32866 c -2.89544,1.579 -5.85938,3.09644 -7.36365,3.76995 -3.68308,1.64905 -6.69624,2.56676 -9.76499,2.97412 -0.99167,0.13164 -3.81671,0.19123 -4.725149,0.0997 z"
+         id="path631-2-3" />
     </g>
     <g
        id="g704"
@@ -1877,11 +1887,6 @@
          style="fill:#ff0000;stroke-width:0.139523"
          d="m 125.85102,195.03349 c 0,-0.0714 3.80219,-1.90076 5.0466,-2.42805 3.16423,-1.34079 5.91997,-2.13502 8.75974,-2.52465 1.13916,-0.15629 3.5701,-0.17462 4.5775,-0.0345 2.46197,0.34241 4.18207,0.84628 8.86723,2.59751 3.35408,1.2537 4.94418,1.79955 6.30498,2.16435 l 0.9598,0.25731 -17.25792,0.005 c -9.49186,0.003 -17.25793,-0.0139 -17.25793,-0.0372 z"
          id="path633" />
-      <path
-         id="path631"
-         style="fill:#0000ff;stroke-width:0.527331"
-         d="m 326.09766,89.345703 c -8.30187,0.0048 -17.37252,0.0065 -23.96875,0.01758 l -42.00977,0.07031 10.10547,5.580078 c 10.64325,5.876679 21.52324,11.503469 27.12891,14.031249 10.31501,4.65135 19.70441,7.81416 28.74414,9.66797 z m 35.40429,0 V 118.5918 c 9.1268,-1.88666 18.48511,-5.04892 29.4043,-9.92774 5.68543,-2.54033 16.8886,-8.26316 27.83203,-14.218748 l 9.20703,-5.011718 -41.90234,-0.07031 c -6.7437,-0.01139 -16.01358,-0.01285 -24.54102,-0.01758 z"
-         transform="matrix(0.26458333,0,0,0.26458333,10.150309,172.14905)" />
     </g>
     <rect
        style="fill:#ff0000;stroke-width:0.429133"
@@ -1934,37 +1939,37 @@
        transform="matrix(0.99926919,0,0,1.0020604,0.06063113,149.6629)">
       <text
          id="text1271-0"
-         y="27.55051"
-         x="167.12941"
+         y="28.078588"
+         x="168.71808"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
          xml:space="preserve"><tspan
            style="stroke-width:0.264583"
-           y="27.55051"
-           x="167.12941"
+           y="28.078588"
+           x="168.71808"
            id="tspan1269-9"
-           sodipodi:role="line">water</tspan></text>
+           sodipodi:role="line">água</tspan></text>
       <text
          id="text1275-8"
          y="54.542645"
-         x="168.64801"
+         x="165.90413"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
          xml:space="preserve"><tspan
            style="stroke-width:0.264583"
            y="54.542645"
-           x="168.64801"
+           x="165.90413"
            id="tspan1273-3"
-           sodipodi:role="line">crust</tspan></text>
+           sodipodi:role="line">crosta</tspan></text>
       <text
          id="text1279-5"
          y="77.935822"
-         x="164.14734"
+         x="165.8242"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
          xml:space="preserve"><tspan
            style="stroke-width:0.264583"
            y="77.935822"
-           x="164.14734"
+           x="165.8242"
            id="tspan1277-3"
-           sodipodi:role="line">mantle</tspan></text>
+           sodipodi:role="line">manto</tspan></text>
     </g>
     <rect
        style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#4d4d4d;stroke-width:0.771751;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
